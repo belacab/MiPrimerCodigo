@@ -1,0 +1,18 @@
+# agregar los nombres de harrypotter para una lista
+
+print('Introduce el nombre de libro 1: ')
+libroName1 = input()
+print('Introduce el nombre de libro 2: ')
+libroName2 = input()
+print('Introduce el nombre de libro 3: ')
+libroName3 = input()
+print('Introduce el nombre de libro 4: ')
+libroName4 = input()
+print('Introduce el nombre de libro 5: ')
+libroName5 = input()
+print('Introduce el nombre de libro 6: ')
+libroName6 = input()
+print('Introduce el nombre de libro 7: ')
+libroName7 = input()
+print('El nombre de los libros son: ')
+print(libroName1 + ' , ' + libroName2 + ' , ' + libroName3 + ' ,  ' + libroName4 + ' , ' + libroName5 + ' , ' + libroName6 + ' y ' + libroName7)

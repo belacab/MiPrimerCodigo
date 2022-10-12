@@ -1,0 +1,7 @@
+print (' cual es tu manga favorito? ')
+ElNombre = input ()
+print('cuantos tomos tiene en total? ')
+CantidadDeTomos = input()
+print (' cuantos leiste hasta ahora? ')
+NumerosLeidos = input ()
+print (' te quedan por leer ' + str(int(CantidadDeTomos) - int(NumerosLeidos)))
